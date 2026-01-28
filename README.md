@@ -5,9 +5,9 @@ This project analyzes transactional data for a pizza store to optimize inventory
 
 ## Dataset
 The project utilizes a comprehensive sales dataset:
-* [cite_start]**Total Records:** 48,620 rows[cite: 6].
-* [cite_start]**Features:** 12 key columns including Order ID, Quantity, Price, and Pizza Category[cite: 7, 8].
-* [cite_start]**Key Metrics:** Tracks unit price, total price, pizza size, and ingredients[cite: 10].
+* **Total Records:** 48,620 rows[cite: 6].
+* **Features:** 12 key columns including Order ID, Quantity, Price, and Pizza Category[cite: 7, 8].
+* **Key Metrics:** Tracks unit price, total price, pizza size, and ingredients[cite: 10].
 
 ## Tools & Technologies
 * **SQL (PostgreSQL/SQL Server):** Data cleaning and complex querying for business KPIs.
