@@ -1,13 +1,13 @@
 # Pizza Sales Analysis
 
 ## Overview
-This project analyzes transactional data for a pizza store to optimize inventory and sales performance. [cite_start]By processing over **48,620 rows** of data, the analysis identifies peak order times, best-selling pizza categories, and key revenue drivers to inform operational improvements[cite: 1, 3].
+This project analyzes transactional data for a pizza store to optimize inventory and sales performance.By processing over **48,620 rows** of data, the analysis identifies peak order times, best-selling pizza categories, and key revenue drivers to inform operational improvements.
 
 ## Dataset
 The project utilizes a comprehensive sales dataset:
-* **Total Records:** 48,620 rows[cite: 6].
-* **Features:** 12 key columns including Order ID, Quantity, Price, and Pizza Category[cite: 7, 8].
-* **Key Metrics:** Tracks unit price, total price, pizza size, and ingredients[cite: 10].
+* **Total Records:** 48,620 rows.
+* **Features:** 12 key columns including Order ID, Quantity, Price, and Pizza Category.
+* **Key Metrics:** Tracks unit price, total price, pizza size, and ingredients.
 
 ## Tools & Technologies
 * **SQL (PostgreSQL/SQL Server):** Data cleaning and complex querying for business KPIs.
@@ -30,8 +30,8 @@ The Power BI dashboard provides a visual breakdown of:
 * **Top/Bottom Performers:** Rankings for the top 5 and bottom 5 pizzas based on revenue, quantity, and total orders.
 
 ## Key Results & Insights
-* [cite_start]**Total Revenue:** The store generated a total of **$817,860.05**[cite: 10].
-* [cite_start]**Average Order Value:** The average spend per order was **$38.31**[cite: 10].
+* **Total Revenue:** The store generated a total of **$817,860.05**.
+* **Average Order Value:** The average spend per order was **$38.31**.
 * **Peak Activity:** Friday and Saturday evenings were identified as the highest-volume periods.
 * **Top Seller by Revenue:** The **Thai Chicken Pizza** contributed the most to total sales revenue.
 * **Volume Leader:** The **Classic Deluxe Pizza** had the highest total quantity sold.
