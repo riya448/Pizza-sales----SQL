@@ -29,5 +29,4 @@ The project utilizes a comprehensive sales dataset:
 
 ## How to Run
 1.  **Database:** Execute the provided SQL script in your SQL environment to generate the KPI tables.
-2.  **Visuals:** Open the `.pbix` file in Power BI Desktop to interact with the sales filters and charts.
-3.  **Reporting:** Review the included presentation for a summary of findings and business recommendations.
+2.  **Reporting:** Review the included presentation for a summary of findings and business recommendations.
