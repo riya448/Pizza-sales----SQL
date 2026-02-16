@@ -11,7 +11,6 @@ The project utilizes a comprehensive sales dataset:
 
 ## Tools & Technologies
 * **SQL (PostgreSQL/SQL Server):** Data cleaning and complex querying for business KPIs.
-* **Power BI:** Interactive dashboard development for sales tracking.
 * **Python:** Initial data exploration and statistical summaries.
 * **Excel:** Raw data management and preliminary filtering.
 
@@ -19,15 +18,7 @@ The project utilizes a comprehensive sales dataset:
 1.  **Requirement Gathering:** Defined business questions regarding daily/monthly trends and product performance.
 2.  **Data Cleaning:** Standardized date formats and handled null values to ensure reporting accuracy.
 3.  **SQL Analysis:** Wrote queries to calculate critical metrics like **Average Order Value** and **Total Pizzas Sold**.
-4.  **Data Visualization:** Designed a dual-page Power BI dashboard focusing on "Home" metrics and "Best/Worst Sellers."
 5.  **Insights Generation:** Analyzed sales distribution across categories and sizes to identify consumer preferences.
-
-## Dashboard
-The Power BI dashboard provides a visual breakdown of:
-* **KPIs:** Total Revenue ($817.86K), Average Order Value ($38.31), and Total Pizzas Sold (68K).
-* **Trends:** Daily and monthly order distributions to identify peak periods.
-* **Category Analysis:** Sales performance across Classic, Supreme, Veggie, and Chicken categories.
-* **Top/Bottom Performers:** Rankings for the top 5 and bottom 5 pizzas based on revenue, quantity, and total orders.
 
 ## Key Results & Insights
 * **Total Revenue:** The store generated a total of **$817,860.05**.
